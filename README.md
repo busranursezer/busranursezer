@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+I'm+B%C3%BC%C5%9Franur+SEZER;Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&width=435&lines=Hi+I'm+B%C3%BC%C5%9Franur+SEZER;Full+Stack+Developer" alt="Typing SVG" /></a>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Büşranur SEZER
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/119038719/206914416-b0a4439d-e630-45cb-9f94-6859790f36ad.gif)

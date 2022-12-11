@@ -2,8 +2,6 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/119038719/206914416-b0a4439d-e630-45cb-9f94-6859790f36ad.gif)
 
-![gitartwork](gitartwork.svg)
-
 Full Stack Software Developer
 -----------------------------
 
@@ -57,3 +55,5 @@ src="https://img.shields.io/github/followers/busranursezer?logo=github&style=for
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+![gitartwork](gitartwork.svg)

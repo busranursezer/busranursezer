@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/119038719/206914416-b0a4439d-e630-45cb-9f94-6859790f36ad.gif)
 
+![gitartwork](gitartwork.svg)
 
 Full Stack Software Developer
 -----------------------------

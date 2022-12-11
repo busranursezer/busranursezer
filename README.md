@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![gitartwork](gitartwork.svg)
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=busranursezer)
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=busranursezer&hide=B,B%2B))
 
 Full Stack Software Developer
 -----------------------------

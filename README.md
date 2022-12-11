@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Büşranur SEZER
 ======================================================================================================================================
 
-![97639-coding](https://user-images.githubusercontent.com/119038719/206914033-40a4ae9a-c43f-42da-95f5-bb401320cbd6.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/119038719/206914416-b0a4439d-e630-45cb-9f94-6859790f36ad.gif)
+
 
 Full Stack Software Developer
 -----------------------------
